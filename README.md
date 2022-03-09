@@ -1,2 +1,2 @@
 # pagResponsiva
-Pagina responsiva usando bootstrap para fim de estudos
+Pagina responsiva usando bootstrap para fins de estudos
